@@ -11,4 +11,8 @@ This change is for GitHub
 
 
 This is a change from GitHub
+
 change
+Another change
+
+A merged line is good
